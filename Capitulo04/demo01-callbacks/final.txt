@@ -1,0 +1,12 @@
+Aula JS
+Paulo Honorato
+21/06/1993
+paulohonoratos@hotmail.com 
+ Testando 
+leitura 
+de 
+arquivos
+ Mais um
+Arquivo
+Para o 
+Teste
